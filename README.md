@@ -1,0 +1,1 @@
+This repository contains the generated pdf document of the Isabelle2014 formalization of all examples from the technical report "Proving the Unique Fixed-Point Principle Correct" by Ralf Hinze and Daniel W. H. James (http://www.cs.ox.ac.uk/people/daniel.james/unique.html).
